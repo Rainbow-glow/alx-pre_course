@@ -1,4 +1,7 @@
 #!/bin/bash
-echo "ALX":wq
+echo "ALX School"<<<<<<< HEAD
+=======
+:wq
+>>>>>>> update_script
 
 >>>>>>> ad4f278041ba9101a029e1bb9274c994ed599ebf
