@@ -1,6 +1,4 @@
 #!/bin/bash
-echo "ALX School is so cool!"<<<<<<< HEAD
-=======
-:wq
+echo "ALX":wq
 
 >>>>>>> ad4f278041ba9101a029e1bb9274c994ed599ebf
